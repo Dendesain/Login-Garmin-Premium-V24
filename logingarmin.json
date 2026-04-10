@@ -11,4 +11,10 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }
+    {
+        "device_id": "e5591cb97610bb32",
+        "key": "samsung",
+        "expirydate": "31-12-2035",
+        "Allowoffline": true
+    }
 ]
